@@ -1,4 +1,3 @@
-require 'redmine'
 require 'thumbnails_asset_tag_helper_patch'
 require 'thumbnails_issues_hooks'
 
